@@ -1,11 +1,11 @@
 # Basic
-title: Jerry Lee
+title: Beacon Jing
 subtitle: stay hungry,stay young.
 #welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
 description: Welcome to my world.
 creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "https://stevenlfg.github.io/"
+url: "https://jing-beacon.github.io/"
 
 permalink: /:year/:month/:title/
 
@@ -37,9 +37,9 @@ comment:
     
 # Social
 social:
-    weibo: 5575043770
-    github: stevenlfg
-    mail: steven.li@zhangmen.com
+    # weibo: 5575043770
+    github: jing-beacon
+    mail: 617742733@qq.com
 
 # Google Analytics
 ga:

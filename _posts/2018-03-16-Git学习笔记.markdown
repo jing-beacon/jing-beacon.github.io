@@ -1,0 +1,19 @@
+---
+layout: post
+title: "git学习笔记"
+date: 2018-03-16
+comments: true
+categories: git
+tags: [git]
+keywords: git 
+description:  git学习笔记
+--- 
+
+在学习Git是记录的一些知识
+
+1. 安装Git [地址](https://git-scm.com/downloads) 后面按照默认选项安装即可。完成之后，在开始菜单找到“Git”->"Git Bash", 会打开类似命令行的窗口，说明安装成功。
+安装成功后，需要进行设置， 在命令行输入：
+`git config --global user.name "Your Name"  你的名字`
+`git config --global user.email "email@example.com"  你的邮箱`
+
+2. 
