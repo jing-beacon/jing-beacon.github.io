@@ -1,8 +1,8 @@
 # Basic
 title: Beacon Jing
-subtitle: stay hungry,stay young.
+subtitle: 
 #welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Welcome to my world.
+description: Welcome to my blog.
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "https://jing-beacon.github.io/"
@@ -39,7 +39,7 @@ comment:
 social:
     # weibo: 5575043770
     github: jing-beacon
-    mail: 617742733@qq.com
+    mail: liujinghaoa@gmail.com
 
 # Google Analytics
 ga:
